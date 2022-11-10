@@ -1,3 +1,7 @@
-#grad {
-    background-image: linear-gradient(to left, #020024, #6cc7ad, #00d4ff);
+/*for headers*/
+h3 {
+    background-image: linear-gradient(to top, #ffffff 5%, #6cc7ad 50%, #00d4ff 100%);
+  }
+  .navbar{
+    opacity: 90%;
   }
