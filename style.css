@@ -1,7 +1,9 @@
 /*for headers*/
-h3 {
+#grad{
     background-image: linear-gradient(to top, #ffffff 5%, #6cc7ad 50%, #00d4ff 100%);
   }
   .navbar{
-    opacity: 90%;
+    height: 10px;
+    /*background-image: linear-gradient(to left, #ffffff 10%, #000000 90%);*/
+    border: none
   }
