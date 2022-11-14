@@ -2,28 +2,22 @@
 #grad{
     background-image: linear-gradient(to top, #ffffff 5%, #6cc7ad 50%, #00d4ff 100%);
  
-  p{
-    font-size: 25px;
+
   }
+  body {
+    margin: 20px;
+    text-align: center;
+  }
+
+  h1 {
+    color: green;
+  }
+
+  img {
+    float: left;
+    margin: 5px;
+  }
+
   p {
     text-align: justify;
     font-size: 25px;
-  }
-  h2{
-    margin: 40px;
-    text-align: center;
-    text-transform: uppercase;
-    
-  }
-  h3{
-    text-transform: uppercase;
-  }
-  #logo{
-    height: 1px;
-  }
-  #top{
-    height: 5px;
-  }
-  img{
-    height: 1px;
-  }
