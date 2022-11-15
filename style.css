@@ -1,7 +1,6 @@
 /*for headers*/
 #grad{
-    background-image: linear-gradient(to top, #ffffff 5%, #6cc7ad 50%, #00d4ff 100%);
- 
+    background-image: linear-gradient(to left, #61b49d 50%, #00b0d3 75%);
 
   }
   body {
@@ -29,4 +28,28 @@
   h2{
     margin-top: 10px;
   }
-  
+  a{
+    color:#04b64e;
+  }
+  .footertext{
+    font-weight: bold;
+  }
+footer{
+  height:10px;
+
+}
+.footer {
+  position:static;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: darkgray;
+  color: black;
+  text-align: center;
+  height: 40px;
+  font-weight: bolder;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+#logo{
+  margin-right: 25px;
+}
