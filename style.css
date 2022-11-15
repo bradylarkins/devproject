@@ -23,7 +23,8 @@
     font-size: 25px;
   }
   #space{
-    margin-top: 50px;
+    margin-top: 100px;
+    padding: 1px;
   }
   h2{
     margin-top: 10px;
@@ -52,4 +53,45 @@ footer{
 }
 #logo{
   margin-right: 25px;
+}
+#para2{
+  padding: 20px;
+}
+#align{
+  text-align: center;
+}
+#logo2{
+  margin-top: 50px;
+}
+#para3{
+  margin-right: 1px;
+  display: inline-block;
+  
+}
+.divv{
+  margin-top: 100px;
+}
+.texthere{
+  margin-top: 100px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+#titles{
+  padding-top: 50px;
+}
+.bottom{
+  height: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
