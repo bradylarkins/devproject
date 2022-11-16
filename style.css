@@ -90,8 +90,40 @@ footer{
   padding-top: 50px;
 }
 .bottom{
-  height: 250px;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
+  text-align: center;
+  height: 190px;
+  margin-left: 250px ;
+  margin-top: 50px;
+}
+#caption{
+  text-align: center;
+  margin-left: 246px;
+}
+
+#prope{
+  width: 75px;
+  position: relative;
+  text-align: center;
+  
+}
+.navigation {
+  width: 75px;
+  text-align: center;
+  vertical-align:bottom;
+ 
+}
+
+#nav-list li {
+  display: inline-block;
+  font-size: 18px;
+  margin: 0px;
+  vertical-align:bottom;
+  line-height:normal;   
+}
+
+.logo-img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  margin: 0px 0px 90px 0px;
 }
